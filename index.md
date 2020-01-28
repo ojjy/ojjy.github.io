@@ -19,8 +19,10 @@ Welcome to my personal webpage
 
 ## WORK EXPERIENCES
 - Korea Institute Science & Technology Information (KISTI) Daejeon, Republic of Korea
+
   Researcher in Division of Advanced Information Convergence Aug. 2016 - Mar. 2018
 - TmaxSoft Bundang, Republic of Korea
+
   Engineer in Global Technical Support Division Feb. 2015 – Jul. 2016
 
 ## PUBLICATIONS
@@ -30,6 +32,8 @@ Welcome to my personal webpage
 
 ## VOLUNTEERS
 - Korea American Association of New Mexico (KAANM) - Developer of webpage and manager of backend server
+  
   Albuquerque, USA - Apr 2018 – Jan 2019
 - Kenya Institute of Education (KIE) - Technical Teaching Assistant about C and Java
+  
   Nairobi, Kenya - Jul 2010 – Aug 2010
