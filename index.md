@@ -10,19 +10,17 @@ published: true
 Welcome to my personal webpage
 
 ## EDUCATION
-- Yonsei University MS in Computer Science Feb. 2013 – Feb. 2015
-- Chungang University B.S. in Computer Science and Engineering Mar. 2009 – Feb. 2012
-- Sang-Myung University Transferred Mar. 2007 – Feb. 2009
+- Yonsei Univ. MS in Computer Science Feb. 2013 – Feb. 2015
+- Chungang Univ. B.S. in Computer Science and Engineering Mar. 2009 – Feb. 2012
+- Sang-Myung Univ. Transferred Mar. 2007 – Feb. 2009
 
 ## RESEARCH INTERESTS
 - Machine Learning, Deep Learning, Big Data Analytics, Data Mining, Data Science, Bioinformatics
 
 ## WORK EXPERIENCES
 - Korea Institute Science & Technology Information (KISTI) Daejeon, Republic of Korea
-
   Researcher in Division of Advanced Information Convergence Aug. 2016 - Mar. 2018
 - TmaxSoft Bundang, Republic of Korea
-
   Engineer in Global Technical Support Division Feb. 2015 – Jul. 2016
 
 ## PUBLICATIONS
@@ -32,8 +30,6 @@ Welcome to my personal webpage
 
 ## VOLUNTEERS
 - Korea American Association of New Mexico (KAANM) - Developer of webpage and manager of backend server
-  
   Albuquerque, USA - Apr 2018 – Jan 2019
 - Kenya Institute of Education (KIE) - Technical Teaching Assistant about C and Java
-  
   Nairobi, Kenya - Jul 2010 – Aug 2010
